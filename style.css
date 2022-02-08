@@ -1,0 +1,14 @@
+input, button {
+    font-size:14px;
+    color:red;
+    margin-bottom: 5px;
+    width: 210px;
+  }
+  .content {
+    color:red;
+    font-size: 12px;
+  }
+  .card-image {
+    width: 200px;
+    height: 200px;
+  }
